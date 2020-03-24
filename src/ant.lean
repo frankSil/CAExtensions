@@ -94,7 +94,7 @@ def ant_g :=
 						⟨0, 1⟩ 
 
 def simple : ant := mk_ant ant_g
-#eval step_n simple 100
+
 end la
 
 end la
